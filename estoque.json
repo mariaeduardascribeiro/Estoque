@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "nome": "Livro",
+    "categoria": "Romance",
+    "quantidade": 85,
+    "preco": 45.92,
+    "minimo": 1000,
+    "atualizado_em": "27/10/2026 15:02"
+  }
+]
